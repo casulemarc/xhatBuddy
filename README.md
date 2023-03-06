@@ -59,6 +59,6 @@ Will add logos and timestamps for each post added to create a full social media 
 ## Author
 
 - Website - [Mark Kasule](https://mlkasule.com)
-- YouTube - [mKasule Coder](https://www.youtube.com/channel/UC3cQi5gvNeiPiPXTrMhZJMg)
-- Frontend Mentor - [@casulemarc](https://www.frontendmentor.io/profile/casulemarc)
-- Twitter - [@mkasulecoder](https://www.twitter.com/mkasulecoder)
+- YouTube - [elitebytecode](https://www.youtube.com/@elitebytecode)
+- Frontend Mentor - [@elitebytecode](https://www.frontendmentor.io/profile/casulemarc)
+- Twitter - [@elitebytecode](https://www.twitter.com/elitebytecode)
